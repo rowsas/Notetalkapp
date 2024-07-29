@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Notetalkapp/static/css/main.7fca090b.css",
+    "main.js": "/Notetalkapp/static/js/main.24db82eb.js",
+    "static/js/453.a3cf95da.chunk.js": "/Notetalkapp/static/js/453.a3cf95da.chunk.js",
+    "index.html": "/Notetalkapp/index.html",
+    "main.7fca090b.css.map": "/Notetalkapp/static/css/main.7fca090b.css.map",
+    "main.24db82eb.js.map": "/Notetalkapp/static/js/main.24db82eb.js.map",
+    "453.a3cf95da.chunk.js.map": "/Notetalkapp/static/js/453.a3cf95da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fca090b.css",
+    "static/js/main.24db82eb.js"
+  ]
+}
